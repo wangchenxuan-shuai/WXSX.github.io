@@ -1,6 +1,9 @@
 ## Welcome to WXSX's Web
 
-You can use the [editor on GitHub](https://github.com/wangchenxuan-shuai/WXSX.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1><b>基本信息</b></h1>
+<p><b>姓名：</b>王辰轩、<b>性别：</b>男、<b>民族：</b>俄罗斯族
+
+ 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
