@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WXSX's Web
 
 You can use the [editor on GitHub](https://github.com/wangchenxuan-shuai/WXSX.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
