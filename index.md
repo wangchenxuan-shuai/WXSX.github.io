@@ -18,7 +18,7 @@
   <img src="高中宿舍.JPG" width="300" height="200" align="left " >
   <img src="大学宿舍.jpg" width="300" height="200" align="right"></p><br>
  <p>高中宿舍和大学宿舍</p><br>
-<h1><b>兴趣爱好</b></h2> 
+<h1><b>兴趣爱好</b></h1> 
 <h2><b>篮球</b></h2>
 <p style="width:450px;">
 <img src="飞虎.png" width="200" height="150" align="right" hspace="5" vspace="5"> 
