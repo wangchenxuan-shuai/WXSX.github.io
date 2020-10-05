@@ -31,5 +31,6 @@
 <h1><b>人际关系</b></h1>
 <h2><b>朋友</b></h2>
 <p style="width:450px;">
-<img src="" width="200" height="150" align="left" hspace="5" vspace="5">
+<img src="fsh.jpg" width="200" height="150" align="left" hspace="5" vspace="5">
+  这就是我和我的好朋友樊思涵，嘻嘻。我们两个是高中同班同学，关系超级好。现在他是北京航空航天大学的一名大一新生，能从祖国的西北来到首都，我们都感到很幸运，愿友谊地久天长！</p>
 
