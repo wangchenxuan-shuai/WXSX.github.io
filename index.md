@@ -27,5 +27,9 @@
   <a href="https://v.qq.com/x/cover/w86q1caaf9764br/g0016qmr11e.html?ptag=qqbrowser" title="">罗斯50佳</a>
 <h2><b>吉他</b></h2>
  <p> 小时候被妈妈逼着学电子琴，觉得很痛苦，虽然很努力，但是都说兴趣是最好的老师。没有最好的老师，没过多久我就半途而废了。长大了以后，每次班里组织活动表演节目，对那些会演奏乐器的同学十分羡慕，于是便真正的接触到了吉他。学了两年的吉他，因为学业的原因，就没有再系统的上课，但闲暇时间还是会自己玩弄一番。听着自己弹奏出的乐音，也算是一番享受。
-  <a href="https://haokan.baidu.com/v?vid=6620323270150313932&pd=bjh&fr=bjhauthor&type=video" title="">阿斯图里亚斯的传奇</a>
+  <a href="https://haokan.baidu.com/v?vid=6620323270150313932&pd=bjh&fr=bjhauthor&type=video" title="">阿斯图里亚斯的传奇</a><br>
+<h1><b>人际关系</b></h1>
+<h2><b>朋友</b></h2>
+<p style="width:450px;">
+<img src="" width="200" height="150" align="left" hspace="5" vspace="5">
 
