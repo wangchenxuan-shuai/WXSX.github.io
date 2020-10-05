@@ -20,6 +20,6 @@
  <p>高中宿舍和大学宿舍</p><br>
 <h1><b>兴趣爱好</b></h2> 
 <h2><b>篮球</b></h2>
-<p style="width:520px;">
-<img src="飞虎.png" width="300" height="200" align="right" hspace="5" vspace="5"> 
+<p style="width:450px;">
+<img src="飞虎.png" width="200" height="150" align="right" hspace="5" vspace="5"> 
   作为一个阳光的大男孩，对于体育的热爱那是必须的啦，其中我最喜欢的莫过于打篮球。无论是CBA还是NBA，我都一直在关注着。身为新疆人，对于新疆飞虎男篮的支持是土生土长的。见证了飞虎男篮三连亚军的憋屈，也见证了15年飞虎横扫广东的光辉时刻，作为新疆飞虎男篮的铁杆球迷，祝愿飞虎男篮能再次夺得冠军。
